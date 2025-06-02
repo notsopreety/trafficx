@@ -16,7 +16,7 @@ A powerful Node.js tool for simulating realistic website traffic with multiple u
 
 ## Prerequisites
 
-- Node.js (v12 or higher)
+- Node.js
 - npm or yarn package manager
 
 ## Installation
