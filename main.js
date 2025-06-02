@@ -1,7 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-const targetUrl = 'https://samirb.com.np'; // Replace with your target URL
+const targetUrl = 'https://example.com'; // Replace with your target URL
 const totalVisits = 50; // Number of page views to simulate
 const delayBetweenVisits = 3000; // Delay in ms between visits
 
